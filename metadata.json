@@ -1,0 +1,6 @@
+{
+  "name": "Serali",
+  "description": "Serali is the complete enterprise AI Workforce Platform that handles the brutal and hands over the strategic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
